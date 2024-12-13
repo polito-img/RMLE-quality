@@ -1,0 +1,14 @@
+This software package implements the RMLE (Regularized Maximum Likelihood Estimation) methodology proposed in
+
+"Modeling Subject Scoring Behaviors in Subjective Experiments Based on a Discrete Quality Scale"
+
+by Lohic Fotio Tiotsop, Antonio Servetti, Marcus Barkowsky, Enrico Masala, 
+
+IEEE Transactions on Multimedia, vol. 26, Mar 2024, pp. 8742-8757, DOI: 10.1109/TMM.2024.3382483  (ISSN: 1520-9210)
+
+The software is provided free of charge.
+We kindly ask anyone using the software to cite the previous paper.
+
+Please note that this software is meant to be a prototype only, it is not optimized or fitted to any purposes. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+Also, please note that the availability of this software does not give you any right about patents covering the technologies implemented therein.
+
